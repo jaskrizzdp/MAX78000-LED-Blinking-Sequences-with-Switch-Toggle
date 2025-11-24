@@ -1,4 +1,4 @@
-//version2
+//version2 - of led blinking file
 /****************************************************************************** 
  * 8-LED Blinking Sequences with Switch Toggle (MAX78000)
  * Prints sequence to terminal and controls LEDs
